@@ -1,0 +1,23 @@
+.task-2-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.phone {
+    margin-bottom: 20px;
+}
+.name {
+    margin-bottom: 20px;
+}
+.age {
+    margin-bottom: 20px;
+}
+.favorite_kitchen {
+    margin-bottom: 20px;
+}
+.e-mail {
+    margin-bottom: 20px;
+}
+.no {
+    margin-bottom: 20px;
+}
